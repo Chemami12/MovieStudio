@@ -1,0 +1,3 @@
+[submodule "Movie_Studio"]
+	path = Movie_Studio
+	url = https://github.com/Chemami12/MovieStudio
